@@ -1,7 +1,12 @@
-[
-  {
-    "price": 6634.75,
-    "text": "Prev Settle",
-    "symbol": "ESM6.CME@BMD"
-  }
-]
+{
+  "notes": [
+    {
+      "price": 6634.75,
+      "text": "Prev Settle"
+    },
+    {
+      "price": 6685.75,
+      "text": "Forward Settle"
+    }
+  ]
+}
