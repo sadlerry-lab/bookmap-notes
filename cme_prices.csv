@@ -1,3 +1,5 @@
 Symbol,Price Level,Note,Foreground Color,Background Color
 ESM6.CME@BMD,6634.75,03/23 Settle,#000000,#FFFF00
 ESM6.CME@BMD,6685.75,03/23 Forward,#000000,#00FFFF
+ESM6.CME@BMD,6610,Gamma Low,#000000,#FFCCCC
+ESM6.CME@BMD,6615,Gamma High,#000000,#FFCCCC
